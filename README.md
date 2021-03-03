@@ -1,5 +1,5 @@
-# Homebrew Formulas
+# Matt's Homebrew Tap
 
 ```shell
-brew tap mattmoore/brew https://github.com/mattmoore/homebrew-formulas
+brew tap mattmoore/tap https://github.com/mattmoore/homebrew-tap
 ```
